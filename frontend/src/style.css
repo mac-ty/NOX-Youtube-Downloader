@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@theme {
+  --color-gold: oklch(85.656% 0.1658 86.612);
+  --color-input: oklch(29.735% 0.05372 272.475);
+}
+
